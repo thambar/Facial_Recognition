@@ -63,4 +63,3 @@ Please take into consideration that the [Neural Network Facial Recognition File]
 
 You can try to lessen this by reducing the epoch number *(# of iterations)* or changing some of the other hyperparameters, but this may result in a tradeoff with accuracy.
 
-**If you found this repository useful or enjoyed it, please give it a star and check out some of my [other repositories](https://github.com/ishaanjav)!**
